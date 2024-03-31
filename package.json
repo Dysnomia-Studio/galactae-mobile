@@ -1,0 +1,41 @@
+{
+  "name": "com.dysnomia.galactae",
+  "displayName": "Galactae: Space Age Dawn",
+  "version": "0.10.7",
+  "description": "Incarnez l'un des 3 dirigeants politiques proposés afin de contrôler la galaxie",
+  "main": "index.js",
+  "scripts": {
+    "build:release": "cordova build android --stacktrace --release",
+    "debug": "cordova run android --device",
+    "prepare": "cordova-res && cordova prepare",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ecosystem:cordova"
+  ],
+  "author": "Dysnomia",
+  "devDependencies": {
+    "app-version": "^0.0.1",
+    "cordova": "^12.0.0",
+    "cordova-android": "^12.0.1",
+    "cordova-plugin-app-version": "^0.1.14",
+    "cordova-plugin-inappbrowser": "^6.0.0",
+    "cordova-plugin-navigationbar": "^1.0.31",
+    "cordova-plugin-network-information": "^3.0.0",
+    "cordova-plugin-statusbar": "^4.0.0",
+    "cordova-res": "^0.15.4",
+    "cross-env": "^7.0.3"
+  },
+  "cordova": {
+    "platforms": [
+      "android"
+    ],
+    "plugins": {
+      "cordova-plugin-app-version": {},
+      "cordova-plugin-navigationbar": {},
+      "cordova-plugin-network-information": {},
+      "cordova-plugin-statusbar": {},
+      "cordova-plugin-inappbrowser": {}
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+    "android": {
+        "release": {
+            "keystore": "release.keystore",
+            "storePassword": "",
+            "alias": "release",
+            "password" : "",
+            "keystoreType": "",
+            "packageType": "bundle"
+        }
+    }
+}
