@@ -1,11 +1,11 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.dysnomia.galactae" version="0.10.7" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.dysnomia.galactae" version="0.10.9" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>Galactae: Space Age Dawn</name>
     <description>Incarnez l'un des 3 dirigeants politiques proposés afin de contrôler la galaxie</description>
     <author email="galactae@dysnomia.studio" href="https://dysnomia.studio">Dysnomia</author>
     <content src="index.html" />
     <preference name="LoadUrlTimeoutValue" value="1000000" />
-    <preference name="android-minSdkVersion" value="31" />
+    <preference name="android-minSdkVersion" value="34" />
     <access origin="https://galactae.eu/*" />
     <access origin="https://*.galactae.eu/*" />
     <access origin="https://*.elanis.eu/*" />

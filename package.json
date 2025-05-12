@@ -1,7 +1,7 @@
 {
   "name": "com.dysnomia.galactae",
   "displayName": "Galactae: Space Age Dawn",
-  "version": "0.10.8",
+  "version": "0.10.9",
   "description": "Incarnez l'un des 3 dirigeants politiques proposés afin de contrôler la galaxie",
   "main": "index.js",
   "scripts": {
@@ -17,7 +17,7 @@
   "devDependencies": {
     "app-version": "^0.0.1",
     "cordova": "^12.0.0",
-    "cordova-android": "^12.0.1",
+    "cordova-android": "^14.0.1",
     "cordova-plugin-app-version": "^0.1.14",
     "cordova-plugin-inappbrowser": "^6.0.0",
     "cordova-plugin-navigationbar": "^1.0.31",
