@@ -1,7 +1,7 @@
 {
   "name": "com.dysnomia.galactae",
   "displayName": "Galactae: Space Age Dawn",
-  "version": "0.10.7",
+  "version": "0.10.8",
   "description": "Incarnez l'un des 3 dirigeants politiques proposés afin de contrôler la galaxie",
   "main": "index.js",
   "scripts": {
